@@ -81,10 +81,10 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. API Endpoints & MySQL
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: I thought I got the main points in the backened and how the components interconnect with one another but I know I need some more practice. I ran out of time when trying to check to make sure everything in the frontend worked first instead of just trying to connect everything. In retrospect that was not a very good idea. Despite that, I love using Postman to test out the api endpoints and mysql and debugging the issues in my api.
 
 ### 2. Frontend
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: The frontend in react prob has become very enjoyable to work with as a framework. I know I still struggle a bit when it comes to react conditions and mapping depending on the task. But overall, I have a comfortable grasp of the fundamentals enough to get most of the task done.
